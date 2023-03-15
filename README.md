@@ -1,4 +1,4 @@
-# CSCI570SequenceAlignmentProj
+# Sequence Alignment for Gnoome Sequencing
 
 An implementation of the Sequence alignement algorithm used in computational biology.
 
